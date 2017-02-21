@@ -1,0 +1,33 @@
+{
+  "name": "nupfel.github.io",
+  "version": "1.0.0",
+  "description": "twoflower github portfolio page",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nupfel/nupfel.github.io"
+  },
+  "author": "Tobias Kirschstein",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/nupfel/nupfel.github.io/blob/master/LICENSE"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-header": "^1.8.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "jquery": "^1.11.3",
+    "magnific-popup": "^1.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/nupfel/nupfel.github.io/issues"
+  },
+  "homepage": "https://github.com/nupfel/nupfel.github.io#readme"
+}
